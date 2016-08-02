@@ -1,0 +1,5 @@
+Addons\FileIndexer.exe;59d319857e588154204765fe1aea2e43;9216
+Addons\Legionsync.dll;974a6b676ac070a7839ab404a5ef6f60;7680
+Addons\Newtonsoft.Json.dll;adf247a9c6c9a26d499cedc9b174a938;484864
+Addons\SevenZipSharp.dll;05c9849856abc683bcbc5c8d7921c146;151040
+Addons\SharpCompress.dll;408361e889ba12889ca42b3be803a524;443904

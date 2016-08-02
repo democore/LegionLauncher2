@@ -1,0 +1,121 @@
+ {
+	"version" : "1.3.1",
+	"addons" : [
+		{
+			"name" : "------------------------Coop 2 Test Mods-------------------------",
+			"Link" : ""
+		},
+		{
+			"name" : "[Update: 04.03.2016] - cTab 2.2.1 (Coop 2 Test)",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@cTab.rar"
+		},
+		{
+			"name" : "-----------------------------------------------------------------",
+			"Link" : ""
+		},
+		{
+			"name" : "------------------------Coop Mods-------------------------",
+			"Link" : ""
+		},
+		{
+			"name" : "[Update: 03.05.2016] - Legion Addon 0.5.3",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/LegionAddon.rar"
+		},
+		{
+			"name" : "[Update: 16.02.2016] - CUP Terrains",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@CUP_Terrains.rar"
+		},
+		{
+			"name" : "[Update: 11.03.2016] - CBA v2.3.1.160220",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@CBA_A3_2_3_1_160220.rar"
+		},
+		{
+			"name" : "[Update: 11.03.2016] - Ace 3.5.0",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@ace_3_5_0.rar"
+		},
+		{
+			"name" : "[Update: 21.12.2015] - ALiVE 0.9.10",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Alive.rar"
+		},
+		{
+			"name" : "[Update: 21.12.2015] - RHS 0.4",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/RHS.rar"
+		},
+		{
+			"name" : "[Update: 21.12.2015] - RHS LeightOPFOR 1.5",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Leights_OPFOR.rar"
+		},
+		{
+			"name" : "[Update: 21.07.2015] - F.A.T.A 1.0",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/fata.rar"
+		},
+		{
+			"name" : "[Update: 21.07.2015] - Afghan Village 1.0",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/AfghanVillage.rar"
+		},
+		{
+			"name" : "[Update: 31.07.2015] - FA18 Kampfflugzeug v1.9",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@JS_JC_FA18.rar"
+		},
+		{
+			"name" : "[Update: 21.07.2015] - Ares 1.8.0",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Ares.rar"
+		},
+		{
+			"name" : "[Update: 16.06.2015] - Task Force Radio 0.9.8",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/TFR.rar"
+		},
+		{
+			"name" : "[Update: 13.07.2014] - Thirsk Winter Map",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Thirsk.rar"
+		},
+		{
+			"name" : "--------------------------------------------------------------",
+			"Link" : ""
+		},
+		{
+			"name" : "---------Extra Mods (Nur für einzelne Missionen)---------",
+			"Link" : ""
+		},
+		{
+			"name" : "[Update: 05.05.2016] - Song Bin Tanh V01",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/SongBinTanhV01.rar"
+		},
+		{
+			"name" : "[Update: 05.05.2016] - Air Cav Vietnam",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/CavVietnam.rar"
+		},
+		{
+			"name" : "[Update: 22.03.2016] - Operation: TREBUCHET",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/OPTRE.rar"
+		},
+		{
+			"name" : "[Update: 22.03.2016] - Halo Zusatz Addons",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/OPTRE_ModuleTestVersion_V1.0.rar"
+		},
+		{
+			"name" : "[Update: 28.03.2016] - Halo Pelican Verbesserung",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/@optre_flyable.rar"
+		},
+		{
+			"name" : "[Update: 22.03.2016] - Robin DR 400",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/sab_robindr400.rar"
+		},
+		{
+			"name" : "[Update: 16.02.2016] - Operation Winterpeace 0.4",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Winterpeace.rar"
+		},
+		{
+			"name" : "[Update: 25.09.2015] - Esseker 0.75",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Esseker.rar"
+		},
+		{
+			"name" : "[Update: 25.09.2015] - TYRK & Spec4",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/TyrkAndSpec4.rar"
+		},
+		{
+			"name" : "[Update: 25.09.2015] - Ryan 3.6",
+			"Link" : "ftp://ModLoaderUser@81.169.221.10/downloads/Ryanzombies.rar"
+		}
+	]
+}

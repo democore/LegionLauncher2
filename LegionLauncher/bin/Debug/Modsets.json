@@ -1,0 +1,24 @@
+{
+	"downloadFolder": "coopMods",
+	"diffFile": "diff_server.txt",
+	"servers": [
+    {
+		"ip": "81.169.221.10",
+		"port": "2302",
+		"name": "Coop 1 Server",
+		"mods": ["@CBA_A3", "@JS_JC_FA18", "@task_force_radio", "@CUP_Terrains", "@RHSAFRF", "@RHSUSF", "@RHSGREF", "@Leights_OPFOR", "@ALiVE", "@Ares", "@fata", "@AfghanVillage", "@ace", "@LegionAddon", "@Thirsk"]
+  	},
+    {
+		"ip": "81.169.221.10",
+		"port": "2322",
+		"name": "Coop 2 Testserver",
+		"mods": ["@CBA_A3", "@JS_JC_FA18", "@task_force_radio", "@CUP_Terrains", "@RHSAFRF", "@RHSUSF", "@RHSGREF", "@Leights_OPFOR", "@ALiVE", "@Ares", "@fata", "@AfghanVillage", "@ace", "@LegionAddon", "@Thirsk"]
+  	},
+    {
+		"ip": "81.169.221.10",
+		"port": "2326",
+		"name": "Coop Funmods",
+		"mods": ["@CBA_A3", "@JS_JC_FA18", "@task_force_radio", "@CUP_Terrains", "@RHSAFRF", "@RHSUSF", "@RHSGREF", "@Leights_OPFOR", "@ALiVE", "@Ares", "@fata", "@AfghanVillage", "@ace", "@LegionAddon", "@Thirsk"]
+  	}
+  ]
+}
